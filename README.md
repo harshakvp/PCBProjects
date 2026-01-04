@@ -3,7 +3,8 @@
 ---
 
 ## 🔹 List of projects available in this repository  
-1. IR Proximity Sensor
+1. IR Proximity Sensor (KiCAD)
+2. ESP32 With USB C (Altium Designer)
 
 ---
 
