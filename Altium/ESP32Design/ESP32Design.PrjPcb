@@ -117,6 +117,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UHOGXEWT
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ESP32Design\Design Rule Check - ESP32Designv1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
