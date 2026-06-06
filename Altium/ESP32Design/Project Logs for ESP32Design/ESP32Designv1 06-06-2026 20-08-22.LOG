@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CON_ESP_USB_N Pin=J2-20
+Removed Pin From Net: NetName=CON_ESP_USB_P Pin=J2-21
+Added Pin To Net: NetName=CON_ESP_USB_P Pin=J2-20
+Added Pin To Net: NetName=CON_ESP_USB_N Pin=J2-21
+Change Net Color : Old Net Color=Blue New Net Color=Default
