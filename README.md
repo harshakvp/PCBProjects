@@ -6,7 +6,7 @@
 [![Contributors](https://img.shields.io/github/contributors/harshakvp/PCBProjects?style=flat-square\&label=contributors)](https://github.com/harshakvp/PCBProjects/graphs/contributors)
 ![Last Commit](https://img.shields.io/github/last-commit/harshakvp/PCBProjects?style=flat-square\&label=last%20commit)
 ![Repo Size](https://img.shields.io/github/repo-size/harshakvp/PCBProjects?style=flat-square\&label=repo%20size)
-![Projects](https://img.shields.io/badge/projects-2-blue?style=flat-square)
+![Projects](https://img.shields.io/badge/projects-3-blue?style=flat-square)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=harshakvp.PCBProjects)
 
 A collection of PCB design projects developed as part of my learning journey in electronics, embedded systems, and hardware design. This repository contains projects created using industry-standard EDA tools such as **Altium Designer** and **KiCad**, along with design files, documentation, and manufacturing outputs.
