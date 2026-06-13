@@ -15,20 +15,7 @@ A collection of PCB design projects developed as part of my learning journey in 
 
 ## Projects
 
-### 1. IR Proximity Sensor (KiCad)
-
-A compact IR-based proximity sensing circuit designed using KiCad.
-
-<p align="center">
-  <img width="1920" height="1128" alt="IR Proximity Sensor 3D View" src="https://github.com/user-attachments/assets/240e3856-8334-4894-9e13-49f78c513fb1" />
-</p>
-
-**Project Directory:**
-[KiCad/IR-Proximity-Sensor](KiCad/IR-Proximity-Sensor)
-
----
-
-### 2. ESP32 With USB-C (Altium Designer)
+### 1. ESP32 With USB-C (Altium Designer)
 
 A custom 4-layer ESP32-S3 development board featuring USB Type-C connectivity, USB-UART programming, onboard power regulation, and GPIO expansion headers.
 
@@ -41,6 +28,25 @@ A custom 4-layer ESP32-S3 development board featuring USB Type-C connectivity, U
 
 ---
 
+### 2. Four Quadrant DC Motor Drive (Altium Designer)
+
+> In Progress...
+
+---
+
+### 3. IR Proximity Sensor (KiCad)
+
+A compact IR-based proximity sensing circuit designed using KiCad.
+
+<p align="center">
+  <img width="1920" height="1128" alt="IR Proximity Sensor 3D View" src="https://github.com/user-attachments/assets/240e3856-8334-4894-9e13-49f78c513fb1" />
+</p>
+
+**Project Directory:**
+[KiCad/IR-Proximity-Sensor](KiCad/IR-Proximity-Sensor)
+
+---
+
 ## Repository Structure
 
 ```text
@@ -48,6 +54,7 @@ PCBProjects/
 │
 ├── Altium/
 │   └── ESP32Design/
+|   └── FourQuadrantDCMotorDrive/
 │
 ├── KiCad/
 │   └── IR-Proximity-Sensor/
