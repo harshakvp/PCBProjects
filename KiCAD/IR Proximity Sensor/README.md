@@ -77,3 +77,5 @@ Vellore Institute of Technology (VIT), Vellore
 * LinkedIn: [Harshak V P](https://www.linkedin.com/in/harshakvp/)
 * Portfolio: [harshakvp.dev](https://chain-science-5eb.notion.site/HARSHAK-V-P-4f4889ae8ebf4c05a5790637c39213ba)
 * Email: [harshakvp.contact@gmail.com](mailto:harshakvp.contact@gmail.com)
+
+Feel free to open an issue, submit improvements, or reach out regarding the project.
