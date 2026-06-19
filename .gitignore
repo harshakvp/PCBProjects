@@ -33,6 +33,7 @@ fp-info-cache
 *.bak
 *.old
 *.tmp
+*.LOG
 
 # Ignore entire backup folders if any
 backups/
