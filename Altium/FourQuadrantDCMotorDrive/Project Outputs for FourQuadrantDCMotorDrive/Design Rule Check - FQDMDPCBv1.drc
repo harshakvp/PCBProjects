@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\PCB Design\Altium\FourQuadrantDCMotorDrive\FQDMDPCBv1.1.PcbDoc
 Date     : 21-06-2026
-Time     : 19:42:00
+Time     : 20:09:28
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -52,11 +52,7 @@ Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Arc (2880mil,1956.63mil) on Top Overlay And Text "C3" (2906mil,1802mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (9.802mil < 10mil) Between Arc (2880mil,1956.63mil) on Top Overlay And Text "D2" (2724mil,1801mil) on Top Overlay Silk Text to Silk Clearance [9.801mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Arc (2880mil,4455.37mil) on Top Overlay And Text "C6" (2906mil,4300mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "GD2" (3085mil,4714mil) on Top Overlay And Track (2465mil,4756mil)(3410mil,4756mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -74,6 +70,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1500mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 4
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
