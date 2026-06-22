@@ -24,13 +24,18 @@ A custom 4-layer ESP32-S3 development board featuring USB Type-C connectivity, U
 </p>
 
 **Project Directory:**
-[Altium/ESP32Design](Altium/ESP32Design)
+[Altium/ESP32Design](https://github.com/harshakvp/PCBProjects/tree/main/Altium/ESP32Design)
 
 ---
 
 ### 2. Four Quadrant DC Motor Drive (Altium Designer)
 
-> In Progress...
+A custom 2-layer 12V four quadrant DC motor drive featuring forward motoring, reverse motoring, and dymanic braking in both forward and reverse direction.
+
+![12V Four Quadrant DC Motor Drive](https://github.com/harshakvp/PCBProjects/blob/cc99e24477105a9991b268a048be75901a3c5528/Altium/FourQuadrantDCMotorDrive/Documents/Figures/3D%20View.png)
+
+**Project Directory:**
+[Altium/FourQuadrantDCMotorDrive](https://github.com/harshakvp/PCBProjects/tree/main/Altium/FourQuadrantDCMotorDrive)
 
 ---
 
@@ -43,7 +48,7 @@ A compact IR-based proximity sensing circuit designed using KiCad.
 </p>
 
 **Project Directory:**
-[KiCad/IR-Proximity-Sensor](KiCad/IR-Proximity-Sensor)
+[KiCad/IR-Proximity-Sensor](https://github.com/harshakvp/PCBProjects/tree/main/KiCAD/IR%20Proximity%20Sensor)
 
 ---
 
