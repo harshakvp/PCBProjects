@@ -6,7 +6,7 @@
 [![Repository](https://img.shields.io/badge/Repository-FourQuadrantDCMotorDrive-black)](https://github.com/harshakvp/PCBProjects/tree/main/Altium/FourQuadrantDCMotorDrive)
 [![GitHub](https://img.shields.io/badge/GitHub-harshakvp-181717?logo=github)](https://github.com/harshakvp)
 
-![3D View](https://github.com/harshakvp/PCBProjects/blob/e5f4ae73f561731b5ff897e3d76424e808f6d764/Altium/FourQuadrantDCMotorDrive/Documents/Figures/3D%20View.png)
+![3D View](https://github.com/harshakvp/PCBProjects/blob/cc99e24477105a9991b268a048be75901a3c5528/Altium/FourQuadrantDCMotorDrive/Documents/Figures/3D%20View.png)
 
 A custom two-layer DC motor drive PCB designed in Altium Designer for motor control and power electronics applications. The design implements a MOSFET H-Bridge topology with IR2110 gate drivers, enabling four-quadrant motor operation including forward motoring, reverse motoring, and dynamic braking.
 
@@ -48,31 +48,31 @@ This project is a custom DC motor drive board developed to explore power electro
 
 ### Schematic
 
-![Schematic](SCHEMATIC_IMAGE_LINK_HERE)
+![Schematic](https://github.com/harshakvp/PCBProjects/blob/cc99e24477105a9991b268a048be75901a3c5528/Altium/FourQuadrantDCMotorDrive/Documents/Figures/Schematics.jpg)
 
 ### Top Layer
 
 Primary component placement and signal routing layer.
 
-![Top Layer](TOP_LAYER_IMAGE_LINK_HERE)
+![Top Layer](https://github.com/harshakvp/PCBProjects/blob/cc99e24477105a9991b268a048be75901a3c5528/Altium/FourQuadrantDCMotorDrive/Documents/Figures/Top%20Layer.png)
 
 ### Bottom Layer
 
 Signal routing and return current paths.
 
-![Bottom Layer](BOTTOM_LAYER_IMAGE_LINK_HERE)
+![Bottom Layer](https://github.com/harshakvp/PCBProjects/blob/cc99e24477105a9991b268a048be75901a3c5528/Altium/FourQuadrantDCMotorDrive/Documents/Figures/Bottom%20Layer.png)
 
 ### Top & Bottom View
 
 Combined board view showing overall routing and component placement.
 
-![Top & Bottom View](TOP_BOTTOM_VIEW_IMAGE_LINK_HERE)
+![Top & Bottom View](https://github.com/harshakvp/PCBProjects/blob/cc99e24477105a9991b268a048be75901a3c5528/Altium/FourQuadrantDCMotorDrive/Documents/Figures/Top%20%26%20Bottom%20Layer.png)
 
 ### 3D View
 
 Complete assembled board visualization.
 
-![3D View](THREED_VIEW_IMAGE_LINK_HERE)
+![3D View](https://github.com/harshakvp/PCBProjects/blob/cc99e24477105a9991b268a048be75901a3c5528/Altium/FourQuadrantDCMotorDrive/Documents/Figures/3D%20View.png)
 
 ---
 
