@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Varient v1.1
 
 [Preferences]
 PrefsVaultGUID=
@@ -117,8 +118,97 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PRHUWCWU
 
+[Document5]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueId=75482b87-cb83-4606-aaef-ccf807cc0505
+Description=Varient v1.1
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-FQDMDSchematic(Varient v1.1).csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for FourQuadrantDCMotorDrive\Design Rule Check - FQDMDPCBv1.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for FourQuadrantDCMotorDrive\NC Drill\FQDMDPCBv1.1-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for FourQuadrantDCMotorDrive\NC Drill\FQDMDPCBv1.1-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for FourQuadrantDCMotorDrive\NC Drill\FQDMDPCBv1.1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for FourQuadrantDCMotorDrive\Gerber\FQDMDPCBv1.1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for FourQuadrantDCMotorDrive\Gerber\FQDMDPCBv1.1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for FourQuadrantDCMotorDrive\Gerber\FQDMDPCBv1.1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for FourQuadrantDCMotorDrive\Gerber\FQDMDPCBv1.1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for FourQuadrantDCMotorDrive\Gerber\FQDMDPCBv1.1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for FourQuadrantDCMotorDrive\Gerber\FQDMDPCBv1.1.GM10
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for FourQuadrantDCMotorDrive\Gerber\FQDMDPCBv1.1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for FourQuadrantDCMotorDrive\Gerber\FQDMDPCBv1.1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for FourQuadrantDCMotorDrive\Gerber\FQDMDPCBv1.1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for FourQuadrantDCMotorDrive\Gerber\FQDMDPCBv1.1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for FourQuadrantDCMotorDrive\NC Drill\FQDMDPCBv1.1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for FourQuadrantDCMotorDrive\Gerber\FQDMDPCBv1.1.REP
 DItemRevisionGUID=
 
 [Configuration1]
