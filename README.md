@@ -33,7 +33,7 @@ A custom 4-layer ESP32-S3 development board featuring USB Type-C connectivity, U
 A 2-layer PCB redesign of the published IEEE Quadratic Boost Converter featuring a high-gain non-isolated DC-DC converter topology, external PWM input interface, TC4420 MOSFET gate driver, IRF3710 power MOSFET, and manufacturing-ready design outputs.
 
 <p align="center">
-  <img src="https://github.com/harshakvp/PCBProjects/blob/9b7ec9311c89a35f22670f013a1aded691edf8a9/Altium/QuadraticConverter/Documents/Figures/Top%203D%20View.png" alt="Quadratic Boost Converter PCB">
+  <img src="https://github.com/harshakvp/PCBProjects/blob/529d7998ede972f7e693472f4ff4d3f21b32c9d1/Altium/QuadraticConverter/Documents/Figures/3D%20View.png" alt="Quadratic Boost Converter PCB">
 </p>
 
 **Project Directory:**  
