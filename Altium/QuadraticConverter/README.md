@@ -5,7 +5,7 @@
 [![Repository](https://img.shields.io/badge/Repository-QuadraticConverter-black)](https://github.com/harshakvp/PCBProjects/tree/main/Altium/QuadraticConverter)
 [![GitHub](https://img.shields.io/badge/GitHub-harshakvp-181717?logo=github)](https://github.com/harshakvp)
 
-![Top PCB View](https://github.com/harshakvp/PCBProjects/blob/f4079e0340e5ac003d500fe7ddc5525b93674afc/Altium/QuadraticConverter/Documents/Figures/Top%203D%20View.png)
+![Top PCB View](https://github.com/harshakvp/PCBProjects/blob/529d7998ede972f7e693472f4ff4d3f21b32c9d1/Altium/QuadraticConverter/Documents/Figures/3D%20View.png)
 
 A PCB redesign of the **Quadratic Boost Converter** presented in the IEEE paper **"Analysis, Design and Experimental Verification of a Quadratic Boost Converter."** This project was developed in **Altium Designer** as a power electronics PCB design learning project, focusing on schematic capture, custom library creation, PCB layout, design verification, and generation of manufacturing-ready outputs.
 
