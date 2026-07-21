@@ -1,12 +1,12 @@
 # PCB Design Projects
 
-[![Stars](https://img.shields.io/github/stars/harshakvp/PCBProjects?style=flat-square\&label=stars)](https://github.com/harshakvp/PCBProjects/stargazers)
-[![Forks](https://img.shields.io/github/forks/harshakvp/PCBProjects?style=flat-square\&label=forks)](https://github.com/harshakvp/PCBProjects/forks)
-[![Watchers](https://img.shields.io/github/watchers/harshakvp/PCBProjects?style=flat-square\&label=watchers)](https://github.com/harshakvp/PCBProjects/watchers)
-[![Contributors](https://img.shields.io/github/contributors/harshakvp/PCBProjects?style=flat-square\&label=contributors)](https://github.com/harshakvp/PCBProjects/graphs/contributors)
-![Last Commit](https://img.shields.io/github/last-commit/harshakvp/PCBProjects?style=flat-square\&label=last%20commit)
-![Repo Size](https://img.shields.io/github/repo-size/harshakvp/PCBProjects?style=flat-square\&label=repo%20size)
-![Projects](https://img.shields.io/badge/projects-3-blue?style=flat-square)
+[![Stars](https://img.shields.io/github/stars/harshakvp/PCBProjects?style=flat-square&label=stars)](https://github.com/harshakvp/PCBProjects/stargazers)
+[![Forks](https://img.shields.io/github/forks/harshakvp/PCBProjects?style=flat-square&label=forks)](https://github.com/harshakvp/PCBProjects/forks)
+[![Watchers](https://img.shields.io/github/watchers/harshakvp/PCBProjects?style=flat-square&label=watchers)](https://github.com/harshakvp/PCBProjects/watchers)
+[![Contributors](https://img.shields.io/github/contributors/harshakvp/PCBProjects?style=flat-square&label=contributors)](https://github.com/harshakvp/PCBProjects/graphs/contributors)
+![Last Commit](https://img.shields.io/github/last-commit/harshakvp/PCBProjects?style=flat-square&label=last%20commit)
+![Repo Size](https://img.shields.io/github/repo-size/harshakvp/PCBProjects?style=flat-square&label=repo%20size)
+![Projects](https://img.shields.io/badge/projects-4-blue?style=flat-square)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=harshakvp.PCBProjects)
 
 A collection of PCB design projects developed as part of my learning journey in electronics, embedded systems, and hardware design. This repository contains projects created using industry-standard EDA tools such as **Altium Designer** and **KiCad**, along with design files, documentation, and manufacturing outputs.
@@ -23,23 +23,36 @@ A custom 4-layer ESP32-S3 development board featuring USB Type-C connectivity, U
   <img src="https://github.com/harshakvp/PCBProjects/blob/cf027911819012640931e08baca7a365c565dad7/Altium/ESP32Design/Documents/My%20Files/Top%203D.png" alt="ESP32 USB-C 3D View">
 </p>
 
-**Project Directory:**
+**Project Directory:**  
 [Altium/ESP32Design](https://github.com/harshakvp/PCBProjects/tree/main/Altium/ESP32Design)
 
 ---
 
-### 2. Four Quadrant DC Motor Drive (Altium Designer)
+### 2. Quadratic Boost Converter PCB Redesign (Altium Designer)
 
-A custom 2-layer 12V four quadrant DC motor drive featuring forward motoring, reverse motoring, and dymanic braking in both forward and reverse direction.
+A 2-layer PCB redesign of the published IEEE Quadratic Boost Converter featuring a high-gain non-isolated DC-DC converter topology, external PWM input interface, TC4420 MOSFET gate driver, IRF3710 power MOSFET, and manufacturing-ready design outputs.
+
+<p align="center">
+  <img src="https://github.com/harshakvp/PCBProjects/blob/9b7ec9311c89a35f22670f013a1aded691edf8a9/Altium/QuadraticConverter/Documents/Figures/Top%203D%20View.png" alt="Quadratic Boost Converter PCB">
+</p>
+
+**Project Directory:**  
+[Altium/QuadraticConverter](https://github.com/harshakvp/PCBProjects/tree/main/Altium/QuadraticConverter)
+
+---
+
+### 3. Four Quadrant DC Motor Drive (Altium Designer)
+
+A custom 2-layer 12V four quadrant DC motor drive featuring forward motoring, reverse motoring, and dynamic braking in both forward and reverse directions.
 
 ![12V Four Quadrant DC Motor Drive](https://github.com/harshakvp/PCBProjects/blob/cc99e24477105a9991b268a048be75901a3c5528/Altium/FourQuadrantDCMotorDrive/Documents/Figures/3D%20View.png)
 
-**Project Directory:**
+**Project Directory:**  
 [Altium/FourQuadrantDCMotorDrive](https://github.com/harshakvp/PCBProjects/tree/main/Altium/FourQuadrantDCMotorDrive)
 
 ---
 
-### 3. IR Proximity Sensor (KiCad)
+### 4. IR Proximity Sensor (KiCad)
 
 A compact IR-based proximity sensing circuit designed using KiCad.
 
@@ -47,7 +60,7 @@ A compact IR-based proximity sensing circuit designed using KiCad.
   <img width="1920" height="1128" alt="IR Proximity Sensor 3D View" src="https://github.com/user-attachments/assets/240e3856-8334-4894-9e13-49f78c513fb1" />
 </p>
 
-**Project Directory:**
+**Project Directory:**  
 [KiCad/IR-Proximity-Sensor](https://github.com/harshakvp/PCBProjects/tree/main/KiCAD/IR%20Proximity%20Sensor)
 
 ---
@@ -58,8 +71,9 @@ A compact IR-based proximity sensing circuit designed using KiCad.
 PCBProjects/
 │
 ├── Altium/
-│   └── ESP32Design/
-|   └── FourQuadrantDCMotorDrive/
+│   ├── ESP32Design/
+│   ├── QuadraticConverter/
+│   └── FourQuadrantDCMotorDrive/
 │
 ├── KiCad/
 │   └── IR-Proximity-Sensor/
@@ -71,10 +85,10 @@ PCBProjects/
 
 ## Tools Used
 
-* Altium Designer
-* KiCad
-* Git
-* GitHub
+- Altium Designer
+- KiCad
+- Git
+- GitHub
 
 ---
 
@@ -82,15 +96,15 @@ PCBProjects/
 
 ### Harshak V P
 
-Electrical and Electronics Engineering Undergraduate
+Electrical and Electronics Engineering Undergraduate  
 Vellore Institute of Technology (VIT), Vellore
 
 #### Connect
 
-* GitHub: [harshakvp](https://github.com/harshakvp)
-* LinkedIn: [Harshak V P](https://www.linkedin.com/in/harshakvp/)
-* Portfolio: [harshakvp.dev](https://chain-science-5eb.notion.site/HARSHAK-V-P-4f4889ae8ebf4c05a5790637c39213ba)
-* Email: [harshakvp.contact@gmail.com](mailto:harshakvp.contact@gmail.com)
+- GitHub: [harshakvp](https://github.com/harshakvp)
+- LinkedIn: [Harshak V P](https://www.linkedin.com/in/harshakvp/)
+- Portfolio: [harshakvp.dev](https://chain-science-5eb.notion.site/HARSHAK-V-P-4f4889ae8ebf4c05a5790637c39213ba)
+- Email: [harshakvp.contact@gmail.com](mailto:harshakvp.contact@gmail.com)
 
 ---
 
