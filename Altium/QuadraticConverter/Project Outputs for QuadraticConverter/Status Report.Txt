@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [QuadraticConverterPCB.PcbDoc]
+   Generated File[QuadraticConverterPCB-Plated.TXT]
+   Generated File[QuadraticConverterPCB-NonPlated.TXT]
+   Generated File[QuadraticConverterPCB.LDP]
+   Generated File[QuadraticConverterPCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:25:53 On 21-07-2026
