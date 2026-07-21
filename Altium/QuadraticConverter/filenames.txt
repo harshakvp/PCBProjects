@@ -1,0 +1,386 @@
+D:\PCB Design\Altium\QuadraticConverter\Documents
+D:\PCB Design\Altium\QuadraticConverter\filenames.txt
+D:\PCB Design\Altium\QuadraticConverter\History
+D:\PCB Design\Altium\QuadraticConverter\Job1.OutJob
+D:\PCB Design\Altium\QuadraticConverter\Project Logs for QuadraticConverter
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter
+D:\PCB Design\Altium\QuadraticConverter\QuadraticConverter.PrjPcb
+D:\PCB Design\Altium\QuadraticConverter\QuadraticConverter.PrjPcbStructure
+D:\PCB Design\Altium\QuadraticConverter\QuadraticConverterPCB.PcbDoc
+D:\PCB Design\Altium\QuadraticConverter\QuadraticConverterPCBLib.PcbLib
+D:\PCB Design\Altium\QuadraticConverter\QuadraticConverterSch.SchDoc
+D:\PCB Design\Altium\QuadraticConverter\QuadraticConverterSchLib.SchLib
+D:\PCB Design\Altium\QuadraticConverter\Documents\4952
+D:\PCB Design\Altium\QuadraticConverter\Documents\B2P-VH
+D:\PCB Design\Altium\QuadraticConverter\Documents\B66366B1018T001
+D:\PCB Design\Altium\QuadraticConverter\Documents\B66368B1020T001
+D:\PCB Design\Altium\QuadraticConverter\Documents\Draw.io
+D:\PCB Design\Altium\QuadraticConverter\Documents\ESK226M050AC3FA
+D:\PCB Design\Altium\QuadraticConverter\Documents\Figures
+D:\PCB Design\Altium\QuadraticConverter\Documents\IRF3710PBF-ND
+D:\PCB Design\Altium\QuadraticConverter\Documents\MUR1520G
+D:\PCB Design\Altium\QuadraticConverter\Documents\SK107M050AG3AAKPLP
+D:\PCB Design\Altium\QuadraticConverter\Documents\TB003_500_P02BE
+D:\PCB Design\Altium\QuadraticConverter\Documents\TC4420EPA
+D:\PCB Design\Altium\QuadraticConverter\Documents\4952\4952
+D:\PCB Design\Altium\QuadraticConverter\Documents\4952\4952.IntLib
+D:\PCB Design\Altium\QuadraticConverter\Documents\4952\4952.STEP
+D:\PCB Design\Altium\QuadraticConverter\Documents\4952\4952\4952.SchLib
+D:\PCB Design\Altium\QuadraticConverter\Documents\4952\4952\History
+D:\PCB Design\Altium\QuadraticConverter\Documents\4952\4952\KEYSTONE_4952.PcbLib
+D:\PCB Design\Altium\QuadraticConverter\Documents\4952\4952\History\KEYSTONE_4952.~(1).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\Documents\B2P-VH\3D Model.STEP
+D:\PCB Design\Altium\QuadraticConverter\Documents\B2P-VH\B2P-VH_LF__SN_
+D:\PCB Design\Altium\QuadraticConverter\Documents\B2P-VH\B2P-VH_LF__SN_.IntLib
+D:\PCB Design\Altium\QuadraticConverter\Documents\B2P-VH\B2P-VH_LF__SN_\B2P-VH(LF)(SN).SchLib
+D:\PCB Design\Altium\QuadraticConverter\Documents\B2P-VH\B2P-VH_LF__SN_\JST_B2P-VH(LF)(SN).PcbLib
+D:\PCB Design\Altium\QuadraticConverter\Documents\B66366B1018T001\User Library-ETD44.STEP
+D:\PCB Design\Altium\QuadraticConverter\Documents\B66368B1020T001\ETD49.STEP
+D:\PCB Design\Altium\QuadraticConverter\Documents\Draw.io\Quadratic Converter Topology.png
+D:\PCB Design\Altium\QuadraticConverter\Documents\Draw.io\Quadratic Converter.drawio.png
+D:\PCB Design\Altium\QuadraticConverter\Documents\Draw.io\Test Point Table.png
+D:\PCB Design\Altium\QuadraticConverter\Documents\ESK226M050AC3FA\3D Model.STEP
+D:\PCB Design\Altium\QuadraticConverter\Documents\Figures\Bottom Layer.png
+D:\PCB Design\Altium\QuadraticConverter\Documents\Figures\Schematics.jpg
+D:\PCB Design\Altium\QuadraticConverter\Documents\Figures\Side 3D View.png
+D:\PCB Design\Altium\QuadraticConverter\Documents\Figures\Top 3D View.png
+D:\PCB Design\Altium\QuadraticConverter\Documents\Figures\Top Layer.png
+D:\PCB Design\Altium\QuadraticConverter\Documents\IRF3710PBF-ND\3D Model.step
+D:\PCB Design\Altium\QuadraticConverter\Documents\IRF3710PBF-ND\IRF3710PBF-ND.IntLib
+D:\PCB Design\Altium\QuadraticConverter\Documents\IRF3710PBF-ND\IRF3710PBF-ND.LibPkg
+D:\PCB Design\Altium\QuadraticConverter\Documents\IRF3710PBF-ND\IRF3710PBF-ND.PcbLib
+D:\PCB Design\Altium\QuadraticConverter\Documents\IRF3710PBF-ND\IRF3710PBF-ND.SchLib
+D:\PCB Design\Altium\QuadraticConverter\Documents\MUR1520G\3D Model.step
+D:\PCB Design\Altium\QuadraticConverter\Documents\MUR1520G\Heat Sink.step
+D:\PCB Design\Altium\QuadraticConverter\Documents\MUR1520G\History
+D:\PCB Design\Altium\QuadraticConverter\Documents\MUR1520G\MUR1520G.LibPkg
+D:\PCB Design\Altium\QuadraticConverter\Documents\MUR1520G\MUR1520G.PcbLib
+D:\PCB Design\Altium\QuadraticConverter\Documents\MUR1520G\MUR1520G.SchLib
+D:\PCB Design\Altium\QuadraticConverter\Documents\MUR1520G\History\MUR1520G.~(1).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\Documents\SK107M050AG3AAKPLP\3D Model.STEP
+D:\PCB Design\Altium\QuadraticConverter\Documents\TB003_500_P02BE\3D Model.STEP
+D:\PCB Design\Altium\QuadraticConverter\Documents\TB003_500_P02BE\TB003-500-P02BE
+D:\PCB Design\Altium\QuadraticConverter\Documents\TB003_500_P02BE\TB003-500-P02BE.IntLib
+D:\PCB Design\Altium\QuadraticConverter\Documents\TB003_500_P02BE\TB003-500-P02BE\CUI_TB003-500-P02BE.PcbLib
+D:\PCB Design\Altium\QuadraticConverter\Documents\TB003_500_P02BE\TB003-500-P02BE\TB003-500-P02BE.SchLib
+D:\PCB Design\Altium\QuadraticConverter\Documents\TC4420EPA\PDIP8_300MC_MCH.step
+D:\PCB Design\Altium\QuadraticConverter\History\Job1.~(1).OutJob.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\Job1.~(2).OutJob.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\Job1.~(3).OutJob.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\Job1.~(4).OutJob.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\Job1.~(5).OutJob.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverter.~(1).PrjPcb.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverter.~(10).PrjPcb.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverter.~(11).PrjPcb.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverter.~(12).PrjPcb.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverter.~(13).PrjPcb.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverter.~(2).PrjPcb.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverter.~(3).PrjPcb.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverter.~(4).PrjPcb.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverter.~(5).PrjPcb.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverter.~(6).PrjPcb.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverter.~(7).PrjPcb.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverter.~(8).PrjPcb.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverter.~(9).PrjPcb.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(1).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(10).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(100).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(101).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(102).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(103).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(11).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(12).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(13).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(14).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(15).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(16).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(17).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(18).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(19).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(2).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(20).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(21).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(22).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(23).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(24).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(25).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(26).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(27).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(28).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(29).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(3).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(30).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(31).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(32).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(33).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(34).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(35).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(36).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(37).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(38).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(39).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(4).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(40).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(41).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(42).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(43).#(Deleted).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(44).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(45).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(46).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(47).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(48).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(49).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(5).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(50).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(51).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(52).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(53).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(54).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(55).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(56).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(57).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(58).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(59).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(6).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(60).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(61).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(62).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(63).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(64).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(65).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(66).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(67).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(68).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(69).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(7).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(70).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(71).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(72).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(73).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(74).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(75).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(76).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(77).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(78).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(79).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(8).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(80).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(81).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(82).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(83).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(84).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(85).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(86).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(87).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(88).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(89).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(9).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(90).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(91).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(92).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(93).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(94).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(95).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(96).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(97).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(98).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCB.~(99).PcbDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(1).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(10).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(11).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(12).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(13).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(14).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(15).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(16).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(17).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(18).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(19).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(2).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(20).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(21).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(22).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(23).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(24).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(25).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(26).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(27).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(28).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(29).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(3).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(30).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(31).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(32).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(33).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(34).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(35).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(36).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(37).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(38).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(39).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(4).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(40).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(41).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(42).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(43).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(44).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(45).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(46).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(47).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(48).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(49).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(5).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(50).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(51).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(52).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(53).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(54).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(55).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(56).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(57).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(58).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(59).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(6).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(60).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(61).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(62).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(63).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(64).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(7).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(8).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterPCBLib.~(9).PcbLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(1).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(10).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(11).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(12).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(13).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(14).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(15).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(16).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(17).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(18).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(19).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(2).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(20).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(21).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(22).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(23).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(24).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(25).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(26).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(27).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(28).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(29).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(3).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(30).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(31).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(32).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(33).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(34).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(35).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(36).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(37).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(38).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(39).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(4).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(40).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(41).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(42).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(43).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(44).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(45).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(46).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(47).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(48).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(5).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(6).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(7).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(8).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSch.~(9).SchDoc.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(1).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(10).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(11).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(12).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(13).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(14).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(15).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(16).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(17).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(18).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(19).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(2).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(20).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(21).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(22).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(23).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(24).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(25).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(26).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(27).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(28).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(29).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(3).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(30).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(31).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(32).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(33).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(34).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(35).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(4).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(5).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(6).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(7).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(8).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\History\QuadraticConverterSchLib.~(9).SchLib.Zip
+D:\PCB Design\Altium\QuadraticConverter\Project Logs for QuadraticConverter\QuadraticConverterPCB PCB ECO 19-07-2026 09-12-38.LOG
+D:\PCB Design\Altium\QuadraticConverter\Project Logs for QuadraticConverter\QuadraticConverterPCB PCB ECO 19-07-2026 09-53-04.LOG
+D:\PCB Design\Altium\QuadraticConverter\Project Logs for QuadraticConverter\QuadraticConverterPCB PCB ECO 19-07-2026 10-16-25.LOG
+D:\PCB Design\Altium\QuadraticConverter\Project Logs for QuadraticConverter\QuadraticConverterPCB PCB ECO 19-07-2026 11-10-37.LOG
+D:\PCB Design\Altium\QuadraticConverter\Project Logs for QuadraticConverter\QuadraticConverterPCB PCB ECO 19-07-2026 11-11-36.LOG
+D:\PCB Design\Altium\QuadraticConverter\Project Logs for QuadraticConverter\QuadraticConverterPCB PCB ECO 19-07-2026 11-14-06.LOG
+D:\PCB Design\Altium\QuadraticConverter\Project Logs for QuadraticConverter\QuadraticConverterPCB PCB ECO 19-07-2026 19-36-15.LOG
+D:\PCB Design\Altium\QuadraticConverter\Project Logs for QuadraticConverter\QuadraticConverterPCB PCB ECO 20-07-2026 22-37-00.LOG
+D:\PCB Design\Altium\QuadraticConverter\Project Logs for QuadraticConverter\QuadraticConverterSch SCH ECO 17-07-2026 22_40_25.LOG
+D:\PCB Design\Altium\QuadraticConverter\Project Logs for QuadraticConverter\QuadraticConverterSch SCH ECO 18-07-2026 15_05_32.LOG
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\BOM
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Design Rule Check - QuadraticConverterPCB.drc
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Design Rule Check - QuadraticConverterPCB.html
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber File
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber File.zip
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\NC Drill
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Schematics.jpg
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Schematics.pdf
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Status Report.Txt
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\BOM\Bill of Materials-QuadraticConverterSch(Prototype).csv
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber\QuadraticConverterPCB-macro.APR_LIB
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber\QuadraticConverterPCB.apr
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber\QuadraticConverterPCB.EXTREP
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber\QuadraticConverterPCB.GBL
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber\QuadraticConverterPCB.GBO
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber\QuadraticConverterPCB.GBS
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber\QuadraticConverterPCB.GM
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber\QuadraticConverterPCB.GTL
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber\QuadraticConverterPCB.GTO
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber\QuadraticConverterPCB.GTS
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber\QuadraticConverterPCB.REP
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber File\QuadraticConverterPCB-macro.APR_LIB
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber File\QuadraticConverterPCB-NonPlated.TXT
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber File\QuadraticConverterPCB-Plated.TXT
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber File\QuadraticConverterPCB.apr
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber File\QuadraticConverterPCB.DRR
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber File\QuadraticConverterPCB.EXTREP
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber File\QuadraticConverterPCB.GBL
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber File\QuadraticConverterPCB.GBO
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber File\QuadraticConverterPCB.GBS
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber File\QuadraticConverterPCB.GM
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber File\QuadraticConverterPCB.GTL
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber File\QuadraticConverterPCB.GTO
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber File\QuadraticConverterPCB.GTS
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber File\QuadraticConverterPCB.LDP
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\Gerber File\QuadraticConverterPCB.REP
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\NC Drill\QuadraticConverterPCB-NonPlated.TXT
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\NC Drill\QuadraticConverterPCB-Plated.TXT
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\NC Drill\QuadraticConverterPCB.DRR
+D:\PCB Design\Altium\QuadraticConverter\Project Outputs for QuadraticConverter\NC Drill\QuadraticConverterPCB.LDP
+D:\PCB Design\Altium\QuadraticConverter\__Previews\QuadraticConverterSch.SchDocPreview
